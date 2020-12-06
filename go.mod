@@ -1,3 +1,3 @@
-module github.com/fcjr/aia-transport-go
+module github.com/jhuntwork/aia-transport-go
 
-go 1.13
+go 1.15
